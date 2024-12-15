@@ -26,7 +26,7 @@ When I began this degree, I was eager to fill the gaps in my knowledge. I starte
 
 Practical Experience Across the SDLC:
 
-One of the highlights of my program was learning to navigate the Software Development Lifecycle (SDLC). I had the opportunity to play every role—from developer to tester, Scrum Master, and project manager while building full-stack applications. I collaborated with stakeholders to understand their goals, communicated progress, and delivered functional solutions that met their expectations.
+One of the highlights of my program was learning to navigate the Software Development Lifecycle (SDLC). I had the opportunity to play every role from developer to tester, Scrum Master, and project manager while building full-stack applications. I collaborated with stakeholders to understand their goals, communicated progress, and delivered functional solutions that met their expectations.
 These experiences not only sharpened my technical skills but also taught me how to adapt to shifting priorities, manage workflows, and ensure that every stage of a project was completed with quality.
 
 
