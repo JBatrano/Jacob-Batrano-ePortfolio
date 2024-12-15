@@ -18,10 +18,10 @@ My journey into computer science started with curiosity and self-taught developm
 Building My Foundation:
 
 When I began this degree, I was eager to fill the gaps in my knowledge. I started small, learning core programming concepts in Python and quickly leveled up to larger, more complex systems. Some of my most notable achievements include:
-•	Full-Stack Development with JavaScript: Building dynamic, user-friendly web applications using front-end and back-end technologies like Node.js, Express, and MongoDB. These projects helped me manage the full Software Development Lifecycle, from design to deployment.
-•	Database Development: Creating robust data banks using SQL and integrating data seamlessly into web applications with MongoDB.
-•	C++ Game Room Project: Developing a web-based multiplayer game room that showcased my ability to combine programming logic with user interactivity.
-•	Machine Learning Exploration: Applying reinforcement learning principles in my CartPole project, where I enhanced agent performance using reward shaping, adaptive learning rates, and state normalization.
+- Full-Stack Development with JavaScript: Building dynamic, user-friendly web applications using front-end and back-end technologies like Node.js, Express, and MongoDB. These projects helped me manage the full Software Development Lifecycle, from design to deployment.
+- Database Development: Creating robust data banks using SQL and integrating data seamlessly into web applications with MongoDB.
+- C++ Game Room Project: Developing a web-based multiplayer game room that showcased my ability to combine programming logic with user interactivity.
+- Machine Learning Exploration: Applying reinforcement learning principles in my CartPole project, where I enhanced agent performance using reward shaping, adaptive learning rates, and state normalization.
 
 
 Practical Experience Across the SDLC:
@@ -38,9 +38,9 @@ This program has expanded my perspective on what’s possible with technology. I
 How My Artifacts Fit Together:
 
 This portfolio reflects my growth as a developer and my commitment to continuous learning. Each artifact demonstrates a specific area of my expertise:
-•	Software Design and Engineering: Building adaptable and modular solutions with Python and C++.
-•	Algorithms and Data Structures: Optimizing machine learning projects for performance and stability.
-•	Databases: Designing secure, efficient systems for data management with SQLlite and 
+- Software Design and Engineering: Building adaptable and modular solutions with Python and C++.
+- Algorithms and Data Structures: Optimizing machine learning projects for performance and stability.
+- Databases: Designing secure, efficient systems for data management with SQLlite and 
 Together, these artifacts showcase my ability to take on complex challenges, design innovative solutions, and deliver high-quality work.
 
 Looking Ahead:
