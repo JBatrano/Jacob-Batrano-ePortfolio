@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "My ePortfolio"
+title: "Jacob Batrano's ePortfolio"
 ---
 
 # Welcome to My ePortfolio
