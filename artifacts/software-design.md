@@ -7,7 +7,7 @@ title: "Software Design and Engineering"
 
 ## Original and Enhanced Artifact
 - [Original Code](../GroceryTrackerOriginal/)
-- [Enhanced Code](../CS499_GroceryItemTracker/)
+- [Enhanced Code](../EnhancedGroceryItemTRacker/)
 
 ## Narrative Addressing Enhancements
 **Enhancements Implemented:**  
