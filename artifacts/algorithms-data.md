@@ -23,7 +23,7 @@ I selected the CartPole problem for my ePortfolio because it highlights my abili
 - Implementing reinforcement learning to solve a dynamic problem.
 - Structuring code to balance exploration and exploitation within an agent’s learning process.
 - Employing efficient data structures, such as deques, to store and manage agent memory during training.
-- 
+ 
 The enhancements focused on improving the algorithm's performance and training efficiency by introducing reward shaping, adaptive learning rates, and optimized state representation. These enhancements showcase my ability to innovate and refine existing solutions to meet industry standards. Furthermore, they reflect my growing understanding of machine learning principles and my ability to solve complex problems efficiently.
 
 3. Meeting Course Outcomes
