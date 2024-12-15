@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <aside>
+            <h3>Navigation</h3>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/artifacts/software-design.html">Software Design</a></li>
+                <li><a href="/artifacts/algorithms-data.html">Algorithms</a></li>
+                <li><a href="/artifacts/databases.html">Databases</a></li>
+            </ul>
+        </aside>
+
+        <!-- Main Content -->
+        <main>
+            {{ content }}
+        </main>
+    </div>
+
+    <footer>
+        © 2024 Jacob Batrano | <a href="https://www.linkedin.com/in/jacobbatrano001/">LinkedIn</a>
+    </footer>
+</body>
+</html>
