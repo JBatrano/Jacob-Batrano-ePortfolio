@@ -15,5 +15,5 @@ Hi, I’m Jacob Batrano, and this portfolio showcases my growth in:
 
 ## Artifacts
 - [Software Design and Engineering](./artifacts/software-design.html)
-- [Algorithms and Data Structures](./artifacts/algorithms.html)
+- [Algorithms and Data Structures](artifacts/algorithms-data.md)
 - [Databases](./artifacts/databases.html)
