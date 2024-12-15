@@ -2,7 +2,7 @@
 layout: default
 title: "My ePortfolio"
 ---
-
+![Profile Image](../images/profile.jpg)
 # Welcome to My ePortfolio
 
 Hi, I’m Jacob Batrano, and this portfolio showcases my growth in:
@@ -56,4 +56,8 @@ This degree has provided me with a strong foundation in software engineering, al
 
 ## Code Review Video  
 [Watch the Code Review Video](https://drive.google.com/file/d/1lVBHoAo0gpY3Ig6rs1ujn2PM76aUe_OH/view?usp=drive_link)
+
+---
+© 2024 Jacob Batrano | [LinkedIn](https://linkedin.com/in/jacobbatran) | [GitHub](https://github.com/username)
+
 
