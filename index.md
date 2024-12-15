@@ -53,3 +53,7 @@ This degree has provided me with a strong foundation in software engineering, al
 - [Software Design and Engineering](./artifacts/software-design.html)
 - [Algorithms and Data Structures](./artifacts/algorithms-data.html)
 - [Databases](./artifacts/databases.html)
+
+## Code Review Video  
+[Watch the Code Review Video](https://drive.google.com/file/d/1lVBHoAo0gpY3Ig6rs1ujn2PM76aUe_OH/view?usp=drive_link)
+
