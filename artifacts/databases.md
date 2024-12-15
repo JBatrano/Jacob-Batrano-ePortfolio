@@ -6,8 +6,8 @@ title: "Databases"
 # Databases
 
 ## Original and Enhanced Artifact  
-- [Original Code](../Grocery Tracker Original)  
-- [Enhanced Code](../CS499_GroceryItemTRacker SQLite)  
+- [Original Code](../Grocery%20Tracker%20Original/)  
+- [Enhanced Code](../CS499_GroceryItemTRacker%20SQLite/)
 
 ## Narrative Addressing Enhancements  
 
