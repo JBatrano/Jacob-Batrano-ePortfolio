@@ -16,20 +16,20 @@ The artifact I chose for my ePortfolio is the Grocery Store Item Tracker, a comm
 
 2. Justification for Including the Artifact
 I selected the Grocery Store Item Tracker for my ePortfolio because it effectively showcases my skills in software engineering and adaptability to new languages and design principles. The original artifact demonstrates my ability to:
-•	Handle data using maps (equivalent to dictionaries in Python).
-•	Structure code modularly to promote clarity and future scalability.
-•	Implement user-friendly features, like frequency tracking and histogram display.
+- Handle data using maps (equivalent to dictionaries in Python).
+- Structure code modularly to promote clarity and future scalability.
+- Implement user-friendly features, like frequency tracking and histogram display.
 The enhancement involved porting the program to Python, improving its readability and usability by adopting Pythonic conventions and implementing a case-insensitive search. This transformation underscores my adaptability in software development, highlighting my ability to transition a project between languages while preserving and enhancing its functionality.
 
 3. Meeting Course Outcomes
 The enhancement aligned with the course outcomes I set out to achieve in Module One, including:
-Outcome 3:
+- Outcome 3:
 "Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms)."
 Porting the program from C++ to Python required me to evaluate the original design, manage trade-offs between language-specific features, and improve functionality. For example, I replaced C++ maps with Python dictionaries, which streamlined the program's structure and enhanced its usability.
-Outcome 4:
+- Outcome 4:
 "Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database)."
 During the enhancement, I applied Pythonic design principles and leveraged Python’s standard libraries for file handling. Additionally, I implemented a case-insensitive search to improve user experience and program functionality. These improvements added significant value by making the program more efficient, readable, and user-friendly.
-Outcome 5:
+- Outcome 5:
 "Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources."
 To ensure the program's reliability, I added error handling for file operations. This enhancement allows the program to gracefully handle runtime issues, such as missing or invalid files, mitigating potential failures and improving overall security.
 
