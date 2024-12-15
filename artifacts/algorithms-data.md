@@ -6,8 +6,10 @@ title: "Algorithms and Data Structures"
 # Algorithms and Data Structures
 
 ## Original and Enhanced Artifact  
-- [Original Code](../OriginalCartpole.ipynb)
+## Original and Enhanced Artifact  
+- [Original Code](../OriginalCartpole.ipynb)  
 - [Enhanced Code](../ImprovedCartpole.ipynb)
+
 
 
 ## Narrative Addressing Enhancements  
