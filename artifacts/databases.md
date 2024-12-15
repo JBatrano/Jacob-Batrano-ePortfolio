@@ -18,29 +18,29 @@ For this enhancement, I transitioned the artifact from C++ to Python and replace
 
 2. Justification for Including the Artifact
 I included the Grocery Store Item Tracker in my ePortfolio because it effectively demonstrates my ability to adapt foundational software to meet higher standards of scalability, maintainability, and usability. This project highlights my skills in:
-•	Database Integration: I replaced a simple text file storage mechanism with an SQLite database, improving data persistence and enabling advanced operations such as searching, sorting, and analytics.
-•	Innovative Design: New features like CSV export and enhanced error handling showcase my ability to anticipate user needs and design solutions that deliver value.
-•	Problem-Solving: The artifact demonstrates my ability to address technical challenges, such as managing duplicate entries through case normalization and ensuring quantity updates respect logical constraints.
+- Database Integration: I replaced a simple text file storage mechanism with an SQLite database, improving data persistence and enabling advanced operations such as searching, sorting, and analytics.
+- Innovative Design: New features like CSV export and enhanced error handling showcase my ability to anticipate user needs and design solutions that deliver value.
+- Problem-Solving: The artifact demonstrates my ability to address technical challenges, such as managing duplicate entries through case normalization and ensuring quantity updates respect logical constraints.
 The enhancements made to this artifact align with real-world software engineering practices and illustrate my proficiency in designing user-focused and database-driven applications.
 
 3. Meeting Course Outcomes
-Outcome 1:
+- Outcome 1:
 "Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science."
 While this was a solo project, the modular design, structured database schema, and clear commenting ensure that the artifact can be easily understood and maintained by other developers. This supports collaboration in team-based projects.
-Outcome 2:
+- Outcome 2:
 "Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts."
 The program outputs, such as frequency histograms and CSV export files, are designed to be clear and user-friendly, enabling communication of data insights to a diverse audience. Additionally, I provided comprehensive documentation and modular code structure, ensuring the artifact remains adaptable and easy to understand.
-Outcome 3:
+- Outcome 3:
 "Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms)."
 Transitioning the program from text file storage to an SQLite database required designing and implementing an optimized database schema. I ensured that the solution efficiently handled data retrieval, updates, and analytics while balancing trade-offs such as data normalization and ease of use.
-Outcome 4:
+- Outcome 4:
 "Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database)."
 I applied modern database tools and techniques, such as:
-•	Parameterized SQL queries to secure against SQL injection.
-•	Quantity subtraction and item deletion to improve user functionality.
-•	CSV export functionality to enable data sharing and reporting.
+- Parameterized SQL queries to secure against SQL injection.
+- Quantity subtraction and item deletion to improve user functionality.
+- CSV export functionality to enable data sharing and reporting.
 These enhancements showcase my ability to build database-driven solutions that deliver value and align with real-world practices.
-Outcome 5:
+- Outcome 5:
 "Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources."
 I incorporated a security-first approach by using parameterized queries to mitigate SQL injection risks and implementing input validation to ensure data integrity. For example, I prevented logical errors, such as subtracting quantities below zero, which could compromise the application’s reliability
 
