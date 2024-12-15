@@ -20,20 +20,20 @@ The artifact I selected for this section of my ePortfolio is the CartPole proble
 
 2. Justification for Including the Artifact
 I selected the CartPole problem for my ePortfolio because it highlights my ability to design and optimize algorithms while working with reinforcement learning techniques. The original artifact demonstrates my skills in:
-•	Implementing reinforcement learning to solve a dynamic problem.
-•	Structuring code to balance exploration and exploitation within an agent’s learning process.
-•	Employing efficient data structures, such as deques, to store and manage agent memory during training.
+- Implementing reinforcement learning to solve a dynamic problem.
+- Structuring code to balance exploration and exploitation within an agent’s learning process.
+- Employing efficient data structures, such as deques, to store and manage agent memory during training.
 The enhancements focused on improving the algorithm's performance and training efficiency by introducing reward shaping, adaptive learning rates, and optimized state representation. These enhancements showcase my ability to innovate and refine existing solutions to meet industry standards. Furthermore, they reflect my growing understanding of machine learning principles and my ability to solve complex problems efficiently.
 
 3. Meeting Course Outcomes
 The enhancements align with the course outcomes established in Module One, including:
-Outcome 3:
+- Outcome 3:
 "Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms)."
 Enhancing the CartPole algorithm required me to design and evaluate solutions that improved the agent’s performance and stability. I implemented reward shaping to provide stronger learning signals by considering pole angle deviation and cart position. Additionally, I introduced adaptive learning rates that dynamically adjust based on performance metrics to optimize convergence speed and stability.
-Outcome 4:
+- Outcome 4:
 "Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database)."
 To improve the CartPole solution, I applied innovative reinforcement learning techniques, including adaptive learning rates and state normalization. These enhancements ensured that the learning algorithm remained efficient and stable while balancing exploration and exploitation. The improvements delivered measurable value by optimizing computational efficiency and performance consistency.
-Outcome 5:
+- Outcome 5:
 "Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources."
 The implementation of state normalization ensured that the input variables remained within consistent ranges, improving the stability of the agent’s learning process. By managing state input effectively, I mitigated risks associated with unstable or unnormalized data, which could otherwise cause the algorithm to diverge or fail during training.
 
